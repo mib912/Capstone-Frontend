@@ -12,4 +12,6 @@ class MainActivity : AppCompatActivity() {
         var tx = findViewById(R.id.text) as TextView
         tx.setText("Hello Android")
     }
+
+
 }
